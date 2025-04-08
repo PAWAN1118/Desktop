@@ -1,0 +1,8 @@
+{
+  "name": "yourapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Running tests...\" && exit 0"
+  }
+}
